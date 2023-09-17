@@ -48,7 +48,7 @@ Retrieves the best n stories from the Hacker News API, sorted by score.
 
 To retrieve the top 5 best stories, you can make a GET request to the following URL:
 
-https://localhost:5001/api/stories?n=10
+https://localhost:7236/api/stories?n=10
 
 ## Assumptions
 
